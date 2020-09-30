@@ -1,0 +1,6 @@
+
+Old school README.
+
+Old school hello world program
+
+Build using "g++ -o hello hello.cc"
